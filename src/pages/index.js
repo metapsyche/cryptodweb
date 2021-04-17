@@ -46,7 +46,15 @@ export default (() => {
 			<Stack margin-top="auto" color="--grey" font="--base">
 				<StackItem width="50%" md-width="100%">
 					<Text margin="0px">
-						When Crypto meets dWeb, it's called a Crypto'd Web. This is the new era of the internet. But this always has been the original vision of the internet--a Decentralized Web. The advent of Blockchain technology is now making this vision a reality. Welcome to Web3. Welcome to the CryptodWeb.{"  "}
+						When Crypto meets dWeb, it's called a Crypto'd Web.{" "}
+						<br />
+						We are in a new era of the internet, one that is entwined with Blockchain technology. A decentralized Web.
+						<br />
+						But this always has been the original vision of the internet.{" "}
+						<br />
+						The advent of Blockchain technology is now making this vision a reality. Welcome to Web3.{" "}
+						<br />
+						Welcome to the CryptodWeb.{"  "}
 					</Text>
 				</StackItem>
 				<StackItem width="50%" md-width="100%" />
