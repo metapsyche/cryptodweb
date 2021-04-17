@@ -8,9 +8,9 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"404"} />
 		<Helmet>
 			<title>
-				Quarkly export
+				CryptodWeb: Fusion of Crypto and dWeb
 			</title>
-			<meta name={"description"} content={"Web site created using quarkly.io"} />
+			<meta name={"description"} content={"THE FUSION OF BLOCKCHAIN AND DECENTRALIZED WEB3 \nWhen Crypto meets dWeb, it's called a Crypto'd Web.\nWe are in a new era of the internet, a decentralized Web entwined with Blockchain technology.\nDecentralization always has been the original vision of the internet.\nThe advent of Blockchain technology is now making this vision a reality. Welcome to Web3.\nWelcome to the CryptodWeb."} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
 		</Helmet>
 		<Link

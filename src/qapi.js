@@ -23,7 +23,12 @@ export default {
 	"mode": "production",
 	"projectType": "create-react-app",
 	"site": {
-		"styles": {},
-		"seo": {}
+		"styles": {
+			"background": "--color-greyD2"
+		},
+		"seo": {
+			"title": "CryptodWeb: Fusion of Crypto and dWeb",
+			"description": "THE FUSION OF BLOCKCHAIN AND DECENTRALIZED WEB3 \nWhen Crypto meets dWeb, it's called a Crypto'd Web.\nWe are in a new era of the internet, a decentralized Web entwined with Blockchain technology.\nDecentralization always has been the original vision of the internet.\nThe advent of Blockchain technology is now making this vision a reality. Welcome to Web3.\nWelcome to the CryptodWeb."
+		}
 	}
 }
